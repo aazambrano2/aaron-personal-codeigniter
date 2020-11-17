@@ -28,7 +28,8 @@
             <div class="navbar-nav">
                 <a class="nav-item nav-link active" href="/">WAMP <span class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link" href="<?php echo base_url();?>">Home</a>
-                <a class="nav-item nav-link" href="<?php echo base_url();?>/about">About</a>
+                <a class="nav-item nav-link" href="<?php echo base_url();?>about">About</a>
+                <a class="nav-item nav-link" href="<?php echo base_url();?>email">Email</a>
                 <a class="nav-item nav-link disabled" href="#">Disabled</a>
             </div>
         </div>
