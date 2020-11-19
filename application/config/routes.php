@@ -49,6 +49,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | Examples:	my-controller/index	-> my_controller/index
 |		my-controller/my-method	-> my_controller/my_method
 */
+$route['verified'] = 'verified/index';
 $route['posts'] = 'posts/index';
 $route['default_controller'] = 'pages/view';
 //$1 represents anything in the pages directory
